@@ -1,5 +1,6 @@
 # Godot
-Criação de jogo em GODOT -  em construção
+Criação de jogo em GODOT -  Em construção...
+- Jogo de Plataforma 2D
 
 
 
