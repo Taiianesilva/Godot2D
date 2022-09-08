@@ -1,8 +1,8 @@
-# Godot
-Este jogo está sendo criando em Godot  
-- Plataforma 2D
-- Em construção...
 
+# Trabalho Prático: Jogo de Plataforma 2D usando Godot Engine
 
-
-<img width="545" alt="image" src="https://user-images.githubusercontent.com/75912890/187301330-a779411e-ff1e-4e58-9696-2d9f22654b0a.png">
+###  Prof. Edson M. Souza - 2022/2
+Trabalho prático da disciplina de  JOGOS DIGITAIS, voltado ao desenvolvimento de um jogo de plataforma 2D usando Godot. 
+- Coletar vários itens na cena - no mínimo 10
+- Implementar nível de dificuldade para a coleta de itens
+- Implementar danos ao jogador com base em um número de vidas inicial que, ao ser alcançado, finalize o jogo e mostre a pontuação obtida.
