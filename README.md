@@ -21,4 +21,9 @@ Foram feitos ajustes no processo de animação do jogador, tal como em seu forma
 
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/75912890/189704502-f965b978-afb3-4a8a-92b0-0b7c27034fbd.png">
 
+## Câmera 2D e Limites
+Para o contexto de jogo, é desejado que a câmera acompanhe o jogador com suavidade, mostrando partes do cenário que estão próximas do mesmo e deixado de lado áreas fora do limite da tela de jogo. Para tanto, cria-se um elemento "Câmera 2D" na aba do jogador; a mesma terá a opção "current" ativada, além das ferramentas de "smoothing". Os resultados, juntamente com um remanejamento do mapa.
+
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/75912890/189755220-c0f18434-ba99-44e1-a7a4-1d257fd6d9dc.png">
+
 
