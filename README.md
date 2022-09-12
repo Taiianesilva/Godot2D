@@ -15,8 +15,9 @@ Inicialmente, é feita a configuração da animação do personagem, tal como su
 
 <img width="474" alt="image" src="https://user-images.githubusercontent.com/75912890/189549343-239e40d0-a4e0-4d13-a234-5e5d0f6753df.png">
 
-## Tilemap, Layers e Colisões
-Em sequência é criado um tilemap o qual é configurado conforme Assets baixados. São configuradas 4 camadas de jogo (Jogadores, Inimigos, Itens e Mundo) as quais são atribuidas aos objetos presentes no jogo. As colisões são ajustadas conforme as camadas e os tilemaps únicos. O resultado inicial é exibido abaixo.  
+## Tilemap, Layers, Colisões, Animações e Raycast
+Em sequência é criado um tilemap o qual é configurado conforme Assets baixados. São configuradas 4 camadas de jogo (Jogadores, Inimigos, Itens e Mundo) as quais são atribuidas aos objetos presentes no jogo. As colisões são ajustadas conforme as camadas e os tilemaps únicos.
+Foram feitos ajustes no processo de animação do jogador, tal como em seu formato de pulo. São criadas animações associadas ao movimento de corrida do jogador, tal como de pulo e recebimento de ataque. Ademais, é feita a configuração de alternância entre as animações através da alteração do arquivo de Scripts do player. Por fim, são incluídos raycasts no personagem para controlar a colisão do mesmo com o chão, de modo que o pulo só possa ocorrer caso o jogador esteja em alguma superfície, não "pulando infinitamente". Os resultados são expostos em sequência.
 
 <img width="476" alt="image" src="https://user-images.githubusercontent.com/75912890/189704502-f965b978-afb3-4a8a-92b0-0b7c27034fbd.png">
 
