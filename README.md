@@ -27,3 +27,8 @@ Para o contexto de jogo, é desejado que a câmera acompanhe o jogador com suavi
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/75912890/189755220-c0f18434-ba99-44e1-a7a4-1d257fd6d9dc.png">
 
 
+## Parallax Background
+São diferentes camadas do plano de fundo do jogo, utilizando os Assets Seasonal Tilesets e os nós "Parallax Background" e "Parallax Layers" da Engine Godot. Os diferentes elementos do conjunto de assets foram organizados como texturas de diferentes "Parallax Layers" e então ordenados conforme sua posição. O ajuste à tela foi feito através de configurações de escala e espelhamento, tal como movimentação manual.
+
+<img width="531" alt="image" src="https://user-images.githubusercontent.com/75912890/189769665-a664b985-a74e-4441-bd84-ae3f0a033179.png">
+
