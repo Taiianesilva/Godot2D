@@ -1,5 +1,5 @@
 
-# Trabalho Prático: Jogo de Plataforma 2D usando Godot Engine
+# Jogo de Plataforma 2D usando Godot Engine
 
 ###  Prof. Edson M. Souza - 2022/2
 Trabalho prático da disciplina de  JOGOS DIGITAIS, voltado ao desenvolvimento de um jogo de plataforma 2D usando Godot. 
