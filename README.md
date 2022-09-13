@@ -32,3 +32,7 @@ São diferentes camadas do plano de fundo do jogo, utilizando os Assets Seasonal
 
 <img width="531" alt="image" src="https://user-images.githubusercontent.com/75912890/189769665-a664b985-a74e-4441-bd84-ae3f0a033179.png">
 
+## Falling Platforms
+Aumento de dificuldade, foram criadas neste itens plataformas as quais "caem" após terem contato com o jogador. Tal função foi implementada através de uma verificação de colisão em adição a um timer e uma verificação de fim de animação. Após alguns segundos, a plataforma caída é restaurada à sua posição e animação originais
+
+<img width="571" alt="image" src="https://user-images.githubusercontent.com/75912890/189978294-2a4e94fe-2a89-4673-b541-5c03b9f4acdd.png">
